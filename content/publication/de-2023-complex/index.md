@@ -2,7 +2,7 @@
 title: Complex contagion in social systems with distrust
 authors:
 - Jean-François de Kemmeter
-- Luca Gallo
+- admin
 - Fabrizio Boncoraglio
 - Vito Latora
 - Timoteo Carletti
