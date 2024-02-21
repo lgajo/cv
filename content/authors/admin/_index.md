@@ -1,50 +1,50 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Luca
+last_name: Gallo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Central European University
+    url: https://www.ceu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on applying network science to studying the structure and dynamics of social systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Complex networks
+  - Dynamical systems
+  - Computational social science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Complex Systems for Physical, Socio-economic and Life Sciences
+      institution: University of Catania
+      year: 2022
+    - course: MSc in Physics of Complex Systems
+      institution: University of Turin
+      year: 2019
+    - course: BSc in Physics
+      institution: University of Turin
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
