@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr.
+title: Luca Gallo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -29,6 +29,8 @@ bio: My research focuses on applying network science to studying the structure a
 
 # Interests to show in About widget
 interests:
+  - Inequality
+  - Innovation
   - Complex networks
   - Dynamical systems
   - Computational social science
@@ -94,15 +96,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+  - icon: x
+    icon_pack: brands
+    link: https://twitter.com/l_gajo
+    label: Follow me on X
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=sKiSU9AAAAAJ&hl=it
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
