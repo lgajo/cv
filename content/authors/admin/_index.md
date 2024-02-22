@@ -59,7 +59,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/l_gajo
-    label: Follow me on X
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
