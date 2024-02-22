@@ -29,4 +29,10 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/it/foto/due-persone-che-si-stringono-la-mano-n95VMLxqM2I)'
   focal_point: ""
   preview_only: false
+
+tags:
+- Social contagion
+- Higher-order interactions
+- Trust
+- Simplicial complexes
 ---

@@ -27,4 +27,10 @@ links:
   url: https://www.science.org/doi/10.1126/sciadv.abg5234
 - name: Ansa
   url: https://www.ansa.it/sicilia/notizie/sanita_sicilia/2022/01/25/covid-ateneo-catania-studia-affidabilita-modelli-previsione_e3f1ab3b-f22d-490f-84bd-bee9a1cf15ee.html
+
+tags:
+- COVID-19
+- Compartmental models
+- Epidemics
+- Identifiability
 ---
