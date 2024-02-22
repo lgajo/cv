@@ -21,7 +21,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/l_gajo
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -32,7 +32,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Complex networks have been successfully used to study a large variety of phenomena, including the synchronization of oscillators, the emergence of patterns in nature, and the spreading of social contagions and epidemics. 
