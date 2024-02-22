@@ -1,15 +1,13 @@
 ---
-title: Dynamics on higher-order networks
-summary: Higher-order interactions deeply affect dynamical phenomena
+title: Epidemic modeling
+summary: Epidemic models are crucial to understand how infectious diseases spread in a population and to devise the best containment strategies.
 tags:
-  - Synchronization
-  - Turing patterns
-  - Social contagion
+  - Epidemics
+  - COVID-19
+  - Compartmental models
   - Dynamical systems
-  - Hypergraphs
-  - Simplicial complexes
-  - Higher-order networks
-date: '2021-02-23'
+  - Complex networks
+date: '2022-01-19'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
