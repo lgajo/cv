@@ -27,9 +27,6 @@ links:
   url: https://www.science.org/doi/10.1126/sciadv.abg5234
 - name: PDF
   url: https://www.science.org/doi/epdf/10.1126/sciadv.abg5234
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/it/foto/due-persone-che-si-stringono-la-mano-n95VMLxqM2I)'
-  focal_point: ""
-  preview_only: false
+- name: Ansa
+  url: https://www.ansa.it/sicilia/notizie/sanita_sicilia/2022/01/25/covid-ateneo-catania-studia-affidabilita-modelli-previsione_e3f1ab3b-f22d-490f-84bd-bee9a1cf15ee.html
 ---

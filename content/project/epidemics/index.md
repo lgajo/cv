@@ -7,7 +7,7 @@ tags:
   - Compartmental models
   - Dynamical systems
   - Complex networks
-date: '2022-01-19'
+date: '2000-01-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -34,8 +34,8 @@ url_video: ''
 #slides: example
 ---
 
-Complex networks have been successfully used to study a large variety of phenomena, including the synchronization of oscillators, the emergence of patterns in nature, and the spreading of social contagions and epidemics. 
+The last decades have witnessed the emergence of new infectious diseases and the resurgence of old ones. Examples include the outbreak of Ebola in West Africa, the epidemic of Zika virus in North and South America, and the global spreading of respiratory diseases such as influenza A(H1N1) and COVID-19.
 
-However, a pairwise description of these processes can be too limiting, as various systems in physics, biology, social sciences are characterized by many-body interactions, that can deeply affect the emergent dynamics of these systems. 
+In this context, mathematical modeling of disease spreading has played a fundamental role in the understanding, control and prevention of epidemic outbreaks, guiding the policy-making processes through quantitative analyses. In particular, as the spreading of an infectious disease within a population is heavily affected by the precise patterns of contacts among individuals, complex networks have become a fundamental tool for analyzing the dynamics of an epidemic. 
 
-To capture the impact of higher-order interactions on dynamical processess we need to rely on more complex mathematical structures, such as hypergraphs and simplicial complexes.
+The goal of this project is therefore to develop interpretable, accurate and reliable mathematical models of epidemics on networks.
