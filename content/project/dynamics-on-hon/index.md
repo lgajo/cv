@@ -9,7 +9,7 @@ tags:
   - Hypergraphs
   - Simplicial complexes
   - Higher-order networks
-date: '2100-01-01'
+date: '2024-01-31'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

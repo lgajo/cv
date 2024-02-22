@@ -7,7 +7,7 @@ tags:
   - Compartmental models
   - Dynamical systems
   - Complex networks
-date: '2000-01-01'
+date: '2024-01-15'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
