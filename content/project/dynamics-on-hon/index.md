@@ -15,7 +15,7 @@ external_link: ''
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/it/foto/pittura-astratta-rossa-e-nera-9mD8Azfcmc0)'
-  focal_point: Smart
+  focal_point: ''
 
 links:
   - icon: twitter
