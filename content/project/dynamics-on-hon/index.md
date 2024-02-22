@@ -6,6 +6,7 @@ tags:
   - Turing patterns
   - Social contagion
   - Dynamical systems
+  - Higher-order interactions
   - Hypergraphs
   - Simplicial complexes
   - Higher-order networks

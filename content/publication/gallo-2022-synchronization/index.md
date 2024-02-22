@@ -18,12 +18,18 @@ publication_types:
 
 publication: '*Communications Physics*'
 
-abstract: Compartmental models are widely adopted to describe and predict the spreading of infectious diseases. The unknown parameters of these models need to be estimated from the data. Furthermore, when some of the model variables are not empirically accessible, as in the case of asymptomatic carriers of coronavirus disease 2019 (COVID-19), they have to be obtained as an outcome of the model. Here, we introduce a framework to quantify how the uncertainty in the data affects the determination of the parameters and the evolution of the unmeasured variables of a given model. We illustrate how the method is able to characterize different regimes of identifiability, even in models with few compartments. Last, we discuss how the lack of identifiability in a realistic model for COVID-19 may prevent reliable predictions of the epidemic dynamics.
+abstract: Non-reciprocal interactions play a crucial role in many social and biological complex systems. While directionality has been thoroughly accounted for in networks with pairwise interactions, its effects in systems with higher-order interactions have not yet been explored as deserved. Here, we introduce the concept of M-directed hypergraphs, a general class of directed higher-order structures, which allows to investigate dynamical systems coupled through directed group interactions. As an application we study the synchronization of nonlinear oscillators on 1-directed hypergraphs, finding that directed higher-order interactions can destroy synchronization, but also stabilize otherwise unstable synchronized states.
 
 projects: 
 - dynamics-on-hon
 
 links:
 - name: DOI
-  url: https://doi.org/10.1038/s42005-022-01040-9
+  url: https://doi.org/10.1038/s42005-022-01040-
+  
+tags:
+- Synchronization
+- Higher-order interactions
+- Non-reciprocal interactions
+- Hypergraphs
 ---
