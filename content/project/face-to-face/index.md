@@ -12,7 +12,7 @@ date: '2024-02-15'
 external_link: ''
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/it/foto/pittura-astratta-rossa-e-nera-9mD8Azfcmc0)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/it/foto/persone-sedute-sul-campo-derba-96DW4Pow3qI)'
   focal_point: ''
 
 links:

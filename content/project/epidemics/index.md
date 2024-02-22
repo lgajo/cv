@@ -13,7 +13,7 @@ date: '2024-01-15'
 external_link: ''
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/it/foto/pittura-astratta-rossa-e-nera-9mD8Azfcmc0)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/it/foto/dashboard-dellepidemia-di-coronavirus-che-mostra-il-bilancio-delle-vittime-3_SvgDspSTE)'
   focal_point: ''
 
 links:
