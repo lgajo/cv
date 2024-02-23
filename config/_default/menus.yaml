@@ -14,22 +14,26 @@ main:
     url: '#projects'
     identifier: projects
     weight: 30
+  - name: Overview
+    parent: projects
+    url: '#projects'
+    weight: 31
   - name: Group Face-to-face interactions
     parent: projects
     url: project/face-to-face/
-    weight: 10
+    weight: 31
   - name: Dynamics on higher-order networks
     parent: projects
     url: project/dynamics-on-hon
-    weight: 10
+    weight: 32
   - name: Epidemic modeling
     parent: projects
     url: project/epidemics
-    weight: 10
+    weight: 33
   - name: Tools and algorithms
     parent: projects
     url: project/tools
-    weight: 10
+    weight: 34
   - name: Publications
     url: '#featured'
     weight: 50
