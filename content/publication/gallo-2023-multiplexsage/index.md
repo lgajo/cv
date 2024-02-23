@@ -25,6 +25,8 @@ links:
   url: https://arxiv.org/pdf/2206.13223.pdf
 - name: DOI
   url: https://doi.org/10.1109/TNNLS.2023.3274565
+- name: GitHub
+  url: https://github.com/lgajo/multiplexsage
   
 tags:
 - De-anonymization
