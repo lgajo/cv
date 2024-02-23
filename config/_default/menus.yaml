@@ -12,9 +12,10 @@ main:
     weight: 20
   - name: Projects
     url: '#projects'
+    identifier: projects
     weight: 30
   - name: Group Face-to-face interactions
-    parent: Projects
+    parent: projects
     url: projects/face-to-face/
     weight: 20
   - name: Publications
