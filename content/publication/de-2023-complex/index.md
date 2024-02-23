@@ -24,6 +24,8 @@ projects:
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2305.03879.pdf
+- name: DOI
+  url: https://www.worldscientific.com/doi/10.1142/S0219525924400010
 
 tags:
 - Social contagion
