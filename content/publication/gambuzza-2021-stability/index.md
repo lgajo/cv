@@ -11,7 +11,7 @@ authors:
 - Vito Latora
 - Stefano Boccaletti
 
-date: '2023-02-21'
+date: '2021-02-23'
 
 publishDate: '2024-02-21T18:07:22.174834Z'
 
