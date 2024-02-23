@@ -200,7 +200,7 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: gallol[at]ceu[dot]edu
+      email: gallol@ceu.edu
       address:
         street: Quellenstraße 51
         city: Vienna
@@ -213,7 +213,7 @@ sections:
         latitude: '48.173889'
         longitude: '16.388056'  
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
       #form:
       #  provider: netlify
