@@ -9,7 +9,7 @@ authors:
 - Vito Latora
 - Giovanni Russo
 
-date: '2022-01-01'
+date: '2022-05-24'
 
 publishDate: '2024-02-21T18:07:22.192908Z'
 
