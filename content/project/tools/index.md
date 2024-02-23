@@ -34,4 +34,4 @@ url_video: ''
 #slides: example
 ---
 
-Bla bla bla, face-to-face interactions in groups.
+Bla bla bla, tools!

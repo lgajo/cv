@@ -25,10 +25,12 @@ projects:
 
 links:
 - name: DOI
-  url: https://doi.org/10.1038/s42005-022-01040-
+  url: https://doi.org/10.1038/s42005-022-01040-9
   
 tags:
 - Synchronization
+- Chaotic oscillators
+- Master Stability Function
 - Higher-order interactions
 - Non-reciprocal interactions
 - Hypergraphs
