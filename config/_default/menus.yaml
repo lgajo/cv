@@ -21,19 +21,19 @@ main:
   - name: Group Face-to-face interactions
     parent: projects
     url: project/face-to-face/
-    weight: 31
+    weight: 32
   - name: Dynamics on higher-order networks
     parent: projects
     url: project/dynamics-on-hon
-    weight: 32
+    weight: 33
   - name: Epidemic modeling
     parent: projects
     url: project/epidemics
-    weight: 33
+    weight: 34
   - name: Tools and algorithms
     parent: projects
     url: project/tools
-    weight: 34
+    weight: 35
   - name: Publications
     url: '#featured'
     weight: 50
