@@ -57,7 +57,7 @@ sections:
         - title: Visiting PhD student
           company: Naxys, Namur Institute for Complex Systems
           company_url: ''
-          company_logo: org-gc
+          company_logo: naxys
           location: Namur, Belgium
           date_start: '2021-06-01'
           date_end: ''
