@@ -8,6 +8,10 @@ authors:
 - Mattia Frasca
 - Timoteo Carletti
 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 date: '2023-01-01'
 
 publishDate: '2024-02-21T18:07:22.205265Z'

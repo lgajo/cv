@@ -11,6 +11,11 @@ authors:
 - Vito Latora
 - Stefano Boccaletti
 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 date: '2022-04-27'
 
 publishDate: '2024-02-21T18:07:22.199016Z'
