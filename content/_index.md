@@ -71,7 +71,7 @@ sections:
         - title: Visiting PhD student
           company: Naxys, Namur Institute for Complex Systems
           company_url: ''
-          company_logo: unamur
+          company_logo: ''
           location: Namur, Belgium
           date_start: '2021-06-01'
           date_end: '2022-03-31'
@@ -85,7 +85,7 @@ sections:
         - title: PhD student
           company: Department of Physics and Astronomy, University of Catania
           company_url: ''
-          company_logo: unict
+          company_logo: ''
           location: Catania, Italy
           date_start: '2019-11-01'
           date_end: '2022-10-31'
@@ -139,13 +139,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      #buttons:
+      #  - name: All
+      #    tag: '*'
+      #  - name: Deep Learning
+      #    tag: Deep Learning
+      #  - name: Other
+      #    tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
