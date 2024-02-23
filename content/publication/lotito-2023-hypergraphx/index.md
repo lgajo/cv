@@ -33,4 +33,15 @@ links:
   url: https://doi.org/10.1093/comnet/cnad019
 - name: GitHub
   url: https://github.com/HGX-Team/hypergraphx
+
+tags:
+- Hypergraphs
+- Temporal hypergraphs
+- Simplicial Complexes
+- Higher-order networks
+- Network analysis
+- Network visualization
+- Synchronization
+- Social contagion
+- Higher-order interactions
 ---
