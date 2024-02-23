@@ -30,8 +30,8 @@ projects:
 links:
 - name: DOI
   url: https://doi.org/10.1038/s42005-022-01040-9
-- name: Slides
-  url: https://github.com/lgajo/cv/tree/main/static/uploads/gallo-2022-synchronization.pptx
+
+url_slides: https://github.com/lgajo/cv/tree/main/static/uploads/gallo-2022-synchronization.pdf
   
 tags:
 - Synchronization
