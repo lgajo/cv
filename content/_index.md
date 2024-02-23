@@ -68,7 +68,6 @@ sections:
               * Face-to-face interactions
               * Science of science
               * Innovation
-      items:
         - title: Visiting PhD student
           company: Naxys, Namur Institute for Complex Systems
           company_url: ''
@@ -76,6 +75,20 @@ sections:
           location: Namur, Belgium
           date_start: '2021-06-01'
           date_end: '2022-03-31'
+          description: |2-
+              Research topics:
+
+              * Higher-order networks
+              * Synchronization
+              * Turing patterns
+              * Social contagion
+        - title: PhD student
+          company: Department of Physics and Astronomy, University of Catania
+          company_url: ''
+          company_logo: unamur
+          location: Catania, Italy
+          date_start: '2019-11-01'
+          date_end: '2022-10-31'
           description: |2-
               Research topics:
 
