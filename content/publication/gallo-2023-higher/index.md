@@ -21,6 +21,8 @@ abstract: Many real-world complex systems are characterized by interactions in g
 projects: 
 - face-to-face
 
+featured: true
+
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2303.09316.pdf

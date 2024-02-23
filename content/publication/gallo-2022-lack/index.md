@@ -22,6 +22,8 @@ abstract: Compartmental models are widely adopted to describe and predict the sp
 projects: 
 - epidemics
 
+featured: true
+
 links:
 - name: DOI
   url: https://www.science.org/doi/10.1126/sciadv.abg5234

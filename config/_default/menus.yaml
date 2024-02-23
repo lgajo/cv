@@ -34,9 +34,13 @@ main:
     parent: projects
     url: project/tools
     weight: 35
-  - name: Publications
+  - name: Featured publications
     url: '#featured'
     weight: 50
+  - name: Publications
+    url: '#publications'
+    weight: 50
+  - name: Talks
   - name: Talks
     url: '#talks'
     weight: 40
