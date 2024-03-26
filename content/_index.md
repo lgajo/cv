@@ -74,7 +74,7 @@ sections:
           company_logo: ''
           location: Vienna, Austria
           date_start: '2022-11-01'
-          date_end: ''
+          date_end: '2024-03-31'
           description: |2-
               Research topics:
 
