@@ -54,7 +54,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Postdoctoral research fellow
+        - title: Postdoctoral research fellow
           company: Laboratory for Networks, Technology and Innovation, Corvinus Institute for Advanced Studies, Corvinus University of Budapest
           company_url: ''
           company_logo: ''
@@ -68,7 +68,6 @@ sections:
               * Diffusion of innovation
               * Inequalities
               * Complex networks
-
         - title: Postdoctoral research fellow
           company: Department of Network and Data Science, Central European University
           company_url: ''
