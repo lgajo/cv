@@ -23,4 +23,9 @@ image:
 #slides: example
 ---
 
-Bla bla bla, face-to-face interactions in groups.
+Face-to-face interactions are the building blocks of our societies and the recent availability of data has allowed to understand their structural and temporal organization.
+Complex networks theory proved to be fundamental to model face-to-face interactions and to investigate their impact on various phenomena, from segregation to the spreading of diseases and ideas.
+
+Yet, a pairwise description of face-to-face interactions can overlook the social tendency of humans to interact in groups larger than two individuals. To capture these higher-order interactions we need to go beyond complex networks and rely on more complex structures, such as hypergraphs.
+
+The goal of the project is thus to investigate the higher-order nature of human face-to-face interactions.

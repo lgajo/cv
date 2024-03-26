@@ -54,7 +54,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral fellow
+       - title: Postdoctoral research fellow
+          company: Laboratory for Networks, Technology and Innovation, Corvinus Institute for Advanced Studies, Corvinus University of Budapest
+          company_url: ''
+          company_logo: ''
+          location: Budapest, Hungary
+          date_start: '2024-04-01'
+          date_end: ''
+          description: |2-
+              Research topics:
+
+              * Science of science
+              * Diffusion of innovation
+              * Inequalities
+              * Complex networks
+
+        - title: Postdoctoral research fellow
           company: Department of Network and Data Science, Central European University
           company_url: ''
           company_logo: ''
@@ -69,7 +84,7 @@ sections:
               * Science of science
               * Innovation
         - title: Visiting PhD student
-          company: Naxys, Namur Institute for Complex Systems
+          company: Naxys, Namur Institute for Complex Systems, University of Namur
           company_url: ''
           company_logo: ''
           location: Namur, Belgium
@@ -200,18 +215,18 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: gallol@ceu.edu
+      email: luca.94.gallo@gmail.com
       address:
-        street: Quellenstraße 51
-        city: Vienna
-        postcode: '1100'
-        country: Austria
-        country_code: AT
-      directions: Office D303
+        street: Közraktár utca 4-6
+        city: Budapest
+        postcode: '1093'
+        country: Hungary
+        country_code: HU
+      directions: Corvinus University, C building, 7th floor
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '48.173889'
-        longitude: '16.388056'  
+        latitude: '47.484770'
+        longitude: '19.030697'  
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider

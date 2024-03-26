@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral fellow
+role: Postdoctoral research fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Central European University
-    url: https://www.ceu.edu
+  - name: Corvinus University of Budapest
+    url: https://www.uni-corvinus.hu/?lang=en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on applying network science to studying the structure and dynamics of social systems.
@@ -81,5 +81,5 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral Fellow at the Department of Network and Data Science at the Central European University. My reserach interest is understanding how the networked organization of human interactions shapes social phenomena such as the circulation of ideas and behaviors, segregation, and inequality. 
+I am a Postdoctoral Fellow at the Laboratory for Networks, Technology and Innovation (NETI) at the Corvinus University of Budapest.My reserach interest is understanding how the networked organization of human interactions shapes social phenomena such as the circulation of ideas and behaviors, segregation, and inequality. 
 {style="text-align: justify;"}

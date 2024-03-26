@@ -24,4 +24,7 @@ image:
 #slides: example
 ---
 
-Bla bla bla, tools!
+In the last decades, advances in technology have generated an unprecedented amount of relational data across a variety of domains, which made network science theory a crucial tool to investigate biological, technological and social systems. 
+A pivotal role in advancing network science has been played by the development of efficient algorithms and computational tools to analyze networked data. 
+
+The goal of this project is to develop computational frameworks for the analysis of networks and their generalizations.
