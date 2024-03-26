@@ -224,8 +224,8 @@ sections:
       directions: Corvinus University, C building, 7th floor
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '47.484770'
-        longitude: '19.030697'  
+        latitude: '47.4850363'
+        longitude: '19.0610642'  
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider
