@@ -214,7 +214,7 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: luca.94.gallo@gmail.com
+      email: luca.gallo@uni-corvinus.hu
       address:
         street: Közraktár utca 4-6
         city: Budapest
