@@ -12,13 +12,7 @@ address:
 
 summary: My talk at the CIAS' workshop
 
-abstract:  Teams are the fundamental units propelling innovation and advancing modern science. 
-A rich literature links the fundamental features of teams, such as their size and diversity, to academic success. 
-However, such analyses fail to capture temporal patterns, treating each group of co-authors as a distinct unit and neglecting the existence of persistent collaborations. 
-By contrast, teams are dynamical entities, made of core members who consistently work together, surrounded by transient members who sporadically participate. 
-In this talk, I will show how we investigated the unfolding of team careers, characterizing their formation, productivity and eventual dissolution. 
-I will present how teams are characterized in terms of age, academic affiliation and scientific disciplines.
-Finally, I will analyze the key compositional features underlying the academic success of persistent collaborations.
+abstract:  Teams are the fundamental units propelling innovation and advancing modern science. A rich literature links the fundamental features of teams, such as their size and diversity, to academic success. However, such analyses fail to capture temporal patterns, treating each group of co-authors as a distinct unit and neglecting the existence of persistent collaborations. By contrast, teams are dynamical entities, made of core members who consistently work together, surrounded by transient members who sporadically participate. In this talk, I will show how we investigated the unfolding of team careers, characterizing their formation, productivity and eventual dissolution. I will present how teams are characterized in terms of age, academic affiliation and scientific disciplines. Finally, I will analyze the key compositional features underlying the academic success of persistent collaborations.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
