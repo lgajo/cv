@@ -22,7 +22,7 @@ abstract: Empirical complex systems are widely assumed to be characterized not o
 projects: 
 - dynamics-on-hon
 
-featured: true
+featured: false
 
 links:
 - name: Preprint
