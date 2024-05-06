@@ -35,6 +35,6 @@ featured: false
 
 #url_video: 'https://youtu.be/FQrKf5tURx4?si=93UcBV5gHoWbk3Q6'
 
-#projects:
-#  - dynamics-on-hon
+projects:
+  - innovation
 ---
