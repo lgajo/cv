@@ -81,5 +81,5 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral Fellow at the Laboratory for Networks, Technology and Innovation (NETI) at the Corvinus University of Budapest.My reserach interest is understanding how the networked organization of human interactions shapes social phenomena such as the circulation of ideas and behaviors, segregation, and inequality. 
+I am a Postdoctoral Fellow at the ANETI Lab at the Corvinus University of Budapest. My reserach interest is understanding how the networked organization of human interactions shapes social phenomena such as the circulation of ideas and behaviors, segregation, and inequality. 
 {style="text-align: justify;"}
