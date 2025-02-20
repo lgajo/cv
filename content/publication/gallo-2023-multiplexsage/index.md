@@ -23,7 +23,7 @@ projects:
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2206.13223.pdf
-- name: DOI
+- name: Article
   url: https://doi.org/10.1109/TNNLS.2023.3274565
 - name: GitHub
   url: https://github.com/lgajo/multiplexsage

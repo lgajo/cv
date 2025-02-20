@@ -31,7 +31,7 @@ projects:
 - dynamics-on-hon
 
 links:
-- name: DOI
+- name: Chapter
   url: https://doi.org/10.1007/978-3-030-91374-8_10
   
 tags:

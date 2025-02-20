@@ -24,7 +24,7 @@ projects:
 
 links:
 - name: Preprint
-  url: https://arxiv.org/pdf/2307.10151.pdf
+  url: https://arxiv.org/pdf/2307.10151
 
 tags:
 - COVID-19
