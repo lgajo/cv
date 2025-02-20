@@ -59,7 +59,7 @@ social:
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/lgajo.bsky.social
-  - icon: x
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/l_gajo
     display:
