@@ -1,5 +1,5 @@
 ---
-title: 'The dynamics of leadership and success in software development teams'
+title: 'Gender disparities in the dissemination and acquisition of scientific knowledge'
 
 authors:
 - Chiara Zappalà
