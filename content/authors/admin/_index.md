@@ -56,11 +56,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: bluesky
-    icon_pack: custom
-    link: https://bsky.app/profile/lgajo.bsky.social
-  - icon: x-twitter
-    icon_pack: custom
+  #- icon: bluesky
+  #  icon_pack: custom
+  #  link: https://bsky.app/profile/lgajo.bsky.social
+  - icon: twitter
+    icon_pack: fab
     link: https://twitter.com/l_gajo
     display:
       header: true
