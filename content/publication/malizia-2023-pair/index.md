@@ -5,6 +5,7 @@ authors:
 - Federico Malizia
 - admin
 - Mattia Frasca
+- Istvan Z. Kiss
 - Vito Latora
 - Giovanni Russo
 
@@ -25,13 +26,6 @@ projects:
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2307.10151
-
-tags:
-- COVID-19
-- Compartmental models
-- Time-discrete models
-- Epidemics
-- Complex networks
 
 tags:
 - Social contagion
