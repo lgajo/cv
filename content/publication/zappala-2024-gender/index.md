@@ -25,6 +25,8 @@ abstract: Recent research has challenged the widespread belief that gender inequ
 projects: 
 - innovation
 
+featured: true
+
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2407.17441
