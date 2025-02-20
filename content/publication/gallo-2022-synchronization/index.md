@@ -28,7 +28,7 @@ projects:
 - dynamics-on-hon
 
 links:
-- name: DOI
+- name: Article
   url: https://doi.org/10.1038/s42005-022-01040-9
   
 tags:

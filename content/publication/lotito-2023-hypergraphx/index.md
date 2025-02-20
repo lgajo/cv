@@ -31,7 +31,7 @@ featured: true
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2303.15356.pdf
-- name: DOI
+- name: Article
   url: https://doi.org/10.1093/comnet/cnad019
 - name: GitHub
   url: https://github.com/HGX-Team/hypergraphx

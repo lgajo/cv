@@ -23,7 +23,9 @@ abstract: Adopting a multi-agent systems paradigm, we developed, tested and expl
 
 
 links:
-- name: DOI
+- name: Preprint
+  url: https://arxiv.org/pdf/1904.11372
+- name: Article
   url: https://doi.org/10.1007/s11721-020-00186-y
 
 tags:

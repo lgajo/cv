@@ -24,7 +24,7 @@ projects:
 - epidemics
 
 links:
-- name: DOI
+- name: Article
   url: https://doi.org/10.1103/PhysRevResearch.4.023145
 
 tags:

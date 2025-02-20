@@ -27,7 +27,9 @@ projects:
 - dynamics-on-hon
 
 links:
-- name: DOI
+- name: Preprint
+  url: https://arxiv.org/pdf/2207.03985
+- name: Article
   url: https://doi.org/10.1016/j.chaos.2022.112912
   
 tags:
