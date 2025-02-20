@@ -21,6 +21,8 @@ abstract: From science to industry, teamwork plays a crucial role in knowledge p
 projects: 
 - innovation
 
+featured: true
+
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2404.18833

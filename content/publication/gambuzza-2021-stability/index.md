@@ -30,8 +30,6 @@ abstract: Various systems in physics, biology, social sciences and engineering h
 projects: 
 - dynamics-on-hon
 
-featured: true
-
 links:
 - name: Article
   url: https://doi.org/10.1038/s41467-021-21486-9

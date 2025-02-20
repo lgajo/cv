@@ -26,8 +26,6 @@ abstract: From social to biological systems, many real-world systems are charact
 projects: 
 - tools
 
-featured: true
-
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2303.15356.pdf
