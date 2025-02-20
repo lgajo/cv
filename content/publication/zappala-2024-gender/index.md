@@ -4,8 +4,9 @@ title: 'Gender disparities in the dissemination and acquisition of scientific kn
 authors:
 - Chiara Zappalà
 - admin
-- Johannes Wachs
+- Jan Bachmann
 - Federico Battiston
+- Fariba Karimi
 
 author_notes:
   - 'Equal contribution'
