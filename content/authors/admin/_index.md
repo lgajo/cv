@@ -57,15 +57,10 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: bluesky
-    icon_pack: fab
+    icon_pack: custom
     link: https://bsky.app/profile/lgajo.bsky.social
   - icon: x-twitter
     icon_pack: custom
-    link: https://twitter.com/l_gajo
-    display:
-      header: true
-  - icon: x
-    icon_pack: brands
     link: https://twitter.com/l_gajo
     display:
       header: true
