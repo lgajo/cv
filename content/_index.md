@@ -55,7 +55,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Postdoctoral research fellow
-          company: Laboratory for Networks, Technology and Innovation, Corvinus Institute for Advanced Studies, Corvinus University of Budapest
+          company: ANETI Lab, Corvinus Institute for Advanced Studies, Corvinus University of Budapest
           company_url: ''
           company_logo: ''
           location: Budapest, Hungary
