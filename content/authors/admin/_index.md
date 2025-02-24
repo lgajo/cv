@@ -21,6 +21,8 @@ role: Postdoctoral research fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: ANETI Labs
+    url: https://anetilab.org/
   - name: Corvinus University of Budapest
     url: https://www.uni-corvinus.hu/?lang=en
 
