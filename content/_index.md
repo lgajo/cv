@@ -229,18 +229,18 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: luca.gallo@uni-corvinus.hu
+      email: lga@sodas.ku.dk
       address:
-        street: Közraktár utca 4-6
-        city: Budapest
-        postcode: '1093'
-        country: Hungary
-        country_code: HU
-      directions: Corvinus University, C building, 7th floor
+        street: Øster Farimagsgade 5A
+        city: Copenhagen
+        postcode: '1353'
+        country: Denmark
+        country_code: DK
+      directions: Building 1, 2nd floor
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '47.4850363'
-        longitude: '19.0610642'  
+        latitude: '55.687196'
+        longitude: '12.570303'  
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider
