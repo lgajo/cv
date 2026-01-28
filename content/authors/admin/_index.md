@@ -21,17 +21,18 @@ role: Postdoctoral research fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ANETI Lab
-    url: https://anetilab.org/
-  - name: Corvinus University of Budapest
-    url: https://www.uni-corvinus.hu/?lang=en
+  - name: Center for Social Data Science (SODAS)
+    url: https://sodas.ku.dk
+  - name: University of Copenhagen
+    url: https://www.ku.dk/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on applying network science to studying the structure and dynamics of social systems.
 
 # Interests to show in About widget
 interests:
-  - Inequality
+  - Science of science
+  - Artificial Intelligence
   - Innovation
   - Complex networks
   - Dynamical systems
@@ -86,5 +87,5 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral Fellow at the ANETI Lab at the Corvinus University of Budapest. My reserach interest is understanding how the networked organization of human interactions shapes social phenomena such as the circulation of ideas and behaviors, segregation, and inequality. 
+I am a Postdoctoral Fellow at the Center for Social Data Science (SODAS) at the University of Copenhagen. My reserach interest is understanding how the networked organization of human interactions shapes social phenomena such as the circulation of ideas and behaviors, segregation, and inequality. 
 {style="text-align: justify;"}

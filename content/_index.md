@@ -55,12 +55,27 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Postdoctoral research fellow
+          company: Center for Social Data Science (SODAS), University of Copenhagen
+          company_url: ''
+          company_logo: ''
+          location: Copenhagen, Denmark
+          date_start: '2025-10-01'
+          date_end: ''
+          description: |2-
+              Research topics:
+
+              * Science of science
+              * Diffusion of innovation
+              * Artificial Intelliegnce
+              * Inequalities
+              * Complex networks
+        - title: Postdoctoral research fellow
           company: ANETI Lab, Corvinus Institute for Advanced Studies, Corvinus University of Budapest
           company_url: ''
           company_logo: ''
           location: Budapest, Hungary
           date_start: '2024-04-01'
-          date_end: ''
+          date_end: '2026-09-30'
           description: |2-
               Research topics:
 
